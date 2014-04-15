@@ -1,0 +1,10 @@
+"STARTUP.obj",
+"AD.obj",
+"pwm.obj",
+"voice.obj",
+"main.obj",
+"Delay.obj",
+"communication.obj",
+"Other.obj",
+"Timer.obj" 
+TO "DDC-F4" 
